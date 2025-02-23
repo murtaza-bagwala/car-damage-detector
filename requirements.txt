@@ -1,8 +1,8 @@
-matplotlib==*
-numpy==*
-pillow==*
-psutil==*
-opencv-python==*
+matplotlib==3.10.0
+numpy==2.1.1
+pillow==11.1.0
+psutil==7.0.0
+opencv-python==4.11.0.86
 PyYAML==*
 requests==*
 scipy==*
