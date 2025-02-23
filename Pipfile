@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+pillow = "*"
+psutil = "*"
+opencv-python = "*"
+PyYAML = "*"
+requests = "*"
+scipy = "*"
+thop = "*"
+torchvision = "*"
+torch = "*"
+ultralytics = "*"
+tqdm = "*"
+pandas = "*"
+seaborn = "*"
+setuptools = "*"
+filterpy = "*"
+lap = "*"
+scikit-image = "*"
+cvzone = "*"
+flask = "*"
+easyocr = "*"
+pytesseract = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
